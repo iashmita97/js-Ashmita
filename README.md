@@ -1,2 +1,1 @@
-# js-Ashmita
-A code repo for javascript series
+Basic Approach for HTML and CSS
