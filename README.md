@@ -1,1 +1,1 @@
-Basic Approach for HTML and CSS :)
+Basic approach for HTML and CSS :)
